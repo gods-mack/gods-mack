@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manish
 - 👀 I’m interested in Systems Programming, Distributed Systems, and Operating Systems.
-- 🌱 I’m currently learning Golang ( building a Distributed scalable persistent key-value pair cache for production ready in GO)
+- 🌱 I’m currently learning GO ( building a Distributed scalable persistent key-value pair cache for production ready in GO)
 - 📫 How to reach me -> manish-1004@outlook.com
 
 <!---
